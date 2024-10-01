@@ -1,4 +1,4 @@
-# Calculate_π
+# Calculate π
 
 I implemented two algorithms for calculating digits of π in Python. These scripts might not be the most efficient way to calculate π, but it was a fun practice project.
 
